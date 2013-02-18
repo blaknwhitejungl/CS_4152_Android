@@ -1,4 +1,4 @@
 CS_4152_Android
 ===============
 
-Code for Advanced Game Development Android game, Enlightened
+Code for Advanced Game Development Android game, Zenscape
